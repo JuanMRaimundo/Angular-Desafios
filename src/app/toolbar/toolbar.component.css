@@ -1,0 +1,10 @@
+header {
+  background-color: cadetblue;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header nav {
+  margin-right: 20px;
+}/*# sourceMappingURL=toolbar.component.css.map */

@@ -1,0 +1,10 @@
+.app-page-wrapper {
+  background-color: rgb(188, 235, 236);
+  display: flex;
+  justify-content: flex-start;
+
+  ul li {
+    display: flex;
+    align-items: center;
+  }
+}
